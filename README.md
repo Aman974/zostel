@@ -1,8 +1,8 @@
 # Zostel 
-
+[Live](https://zostelclone.netlify.app/)
 ### Zostel is one of the largest and oldest networks of hostels and homes in India. It has a presence in 44 cities in India and Nepal.
 <br />
- ## [Live](https://github.com/ashutoshswaraj](https://zostelclone.netlify.app/)
+
 
 ### Zostel is one such one-size-fits-all kind of backpacker hostel chain in India. Whether you are in your teens traveling to explore the first chapter of life or in your twenties traveling to enjoy the thrills of life or in your thirties traveling to reignite your love affair with life – Zostel perfectly suits your requirements
 
@@ -47,6 +47,8 @@
 
 > ### Razor Pay Integration
 ![razorpay](https://i.imgur.com/EoiaWF4.png)
+
+ 
 
 # What did we Learn ?
 
